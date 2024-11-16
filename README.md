@@ -8,7 +8,6 @@ Yasmin Aparecida Fernandes Gonçalves
 
 link para o site: https://allanaleson.github.io/LojaGoku/
 
-Login: Primeiro Nome (Allan, Larissa, Matheus, Yasmin)
+Login: (allan, larissa, matheus, yasmin)
 Senha: 1234
 
-Se errar não sera direcionado a pagina seguinte.

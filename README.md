@@ -6,7 +6,7 @@ Larrisa Sanches Paixão
 Matheus Silva Ciriaco
 Yasmin Aparecida Fernandes Gonçalves
 
-link para o site: https://msciriaco81.github.io/Site-Goku/
+link para o site: https://allanaleson.github.io/LojaGoku/
 
 Login: Primeiro Nome (Allan, Larissa, Matheus, Yasmin)
 Senha: 1234
